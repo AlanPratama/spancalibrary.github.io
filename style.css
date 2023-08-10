@@ -172,7 +172,7 @@ nav{
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: start;
     gap: 16px;
     align-items: center;
     transform-origin:right; /* Pusat transformasi di tengah gambar */
